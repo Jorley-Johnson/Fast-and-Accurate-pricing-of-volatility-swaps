@@ -1,8 +1,8 @@
 # Fast-and-Accurate-pricing-of-volatility-swaps
 
-### Project title: [Estimating the price of a volatility swap.]
+### Project title: Estimating the price of a volatility swap.
 
-### Student name: [Jorley Johnson]
+### Student name: Jorley Johnson
   
 Give some brief background and describe what you intend your code to do, together with a rough outline (e.g., classes, functions, snippets, comments, pseudocode).
 

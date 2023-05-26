@@ -1,6 +1,4 @@
 # Fast-and-Accurate-pricing-of-volatility-swaps
-# Scientific Programming in Python – submission 3
-
 
 ### Project title: [Estimating the price of a volatility swap.]
 
